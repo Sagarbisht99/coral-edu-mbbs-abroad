@@ -1,3 +1,5 @@
+<?php include 'site_identity.php'; ?>
+
 <footer class="nexus-footer">
     <div class="nexus-main">
         <div class="nexus-container">
